@@ -1,0 +1,1 @@
+nohup python3 fetch_apple_tweets.py &
