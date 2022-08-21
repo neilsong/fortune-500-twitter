@@ -1,1 +1,1 @@
-nohup python3 fetch_apple_tweets.py &
+nohup python3 fetch_tweets.py &
