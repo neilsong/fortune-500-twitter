@@ -1,6 +1,6 @@
 # Fortune 500 Tweet Extraction
 
-This repository contains the code for extracting tweets from the Fortune 500 companies. The code is written in Python 3.6. The code is written in a modular fashion so that it can be easily extended to extract tweets from other companies.
+This repository contains the code for extracting tweets from the Fortune 500 companies. The code is written in Python 3.7. The code is written in a modular fashion so that it can be easily extended to extract tweets from other companies, just modify `fortune500.csv`
 
 ## Environment Setup
 1. Make sure `conda` is installed
